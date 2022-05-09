@@ -10,7 +10,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-gon%c3%a7alvestb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-gon%c3%a7alvestb/" height="30" width="40" /></a>
 <a href="https://instagram.com/rodrigo2kk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigo2kk" height="30" width="40" /></a>
-</p>
+</p> 
+<a aling="left" href = "mailto:Rodrigoga701@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 <h3 align="left">Minhas Hard Skils ⭐️⭐️⭐️:</h3>
 
 <p align="left"> <a 
@@ -24,3 +26,5 @@
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
  </a>
+ 
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
