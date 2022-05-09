@@ -2,9 +2,9 @@
 
 <h4 align="center"> Sou um Aprendiz Jedi na Trybe</h4>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo2k48&show_icons=true&locale=en&layout=compact&theme=dark" alt="rodrigo2k48" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo2k48&show_icons=true&locale=en&layout=compact&theme=dark" alt="rodrigo2k48" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo2k48&theme=tokyonight" alt="rodrigo2k48" /></p>
+<p><img align="left-center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo2k48&theme=tokyonight" alt="rodrigo2k48" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo2k48&show_icons=true&locale=en&theme=tokyonight" alt="rodrigo2k48" /></p>
 
