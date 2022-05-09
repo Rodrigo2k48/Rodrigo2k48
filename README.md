@@ -1,4 +1,4 @@
-<h3 align="center">Prazer!,Me chamo Rodrigo Gonçalves</h3>
+ <h1 align="center"> Opa Prazer! 👏🏾 🔹Me chamo Rodrigo Gonçalves🔹</h1>
 
 <h4 align="center"> Sou um Aprendiz Jedi na Trybe 💚 </h4>
 
