@@ -32,5 +32,5 @@
   <img align="right" alt="Gif Rodrigoa-pic" height="170" style="border-radius:px;" src="https://media.discordapp.net/attachments/973043838602080269/973044055393054760/Webp.net-gifmaker.gif?width=492&height=492">
   
 
-![Snake animation](https://github.com/rodrigo2k48/rodrigo2k48/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
