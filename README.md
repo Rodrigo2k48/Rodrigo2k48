@@ -9,8 +9,8 @@
 
 <h3 align="left">Conecte-se comigo! 🕵🏾‍♂️🖖🏾:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-gon%c3%a7alvestb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-gon%c3%a7alvestb/" height="30" width="40" /></a>
-<a href="https://instagram.com/rodrigo2kk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigo2kk" height="30" width="40" /></a>
+<a height="180em" href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-gon%c3%a7alvestb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-gon%c3%a7alvestb/" height="30" width="40" /></a>
+<a height="180em" href="https://instagram.com/rodrigo2kk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigo2kk" height="30" width="40" /></a>
 </p> 
 <a aling="left" href = "mailto:Rodrigoga701@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
@@ -29,5 +29,4 @@
  </a>
  
   <img align="right" alt="Gif Rodrigoa-pic" height="170" style="border-radius:px;" src="https://media.discordapp.net/attachments/973043838602080269/973044055393054760/Webp.net-gifmaker.gif?width=492&height=492">
-  
-
+ 
