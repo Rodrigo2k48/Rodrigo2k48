@@ -1,8 +1,12 @@
- <h1 align="center"> Opa Prazer! 👏🏾 🔹Me chamo Rodrigo Gonçalves🔹</h1>
+<h3 align="center">Olá, Me chamo Rodrigo Gonçalves</h3>
 
-<h4 align="center"> Sou um Aprendiz Jedi na Trybe 💚 </h4>
+<h4 align="center"> Sou um Aprendiz Jedi na Trybe</h4>
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo2k48&show_icons=true&locale=en&theme=tokyonight" alt="rodrigo2k48" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo2k48&show_icons=true&locale=en&layout=compact&theme=dark" alt="rodrigo2k48" /> </p> <p><img align="left-center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo2k48&theme=tokyonight" alt="rodrigo2k48" /></p><p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo2k48&show_icons=true&locale=en&theme=tokyonight" alt="rodrigo2k48" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo2k48&theme=tokyonight" alt="rodrigo2k48" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigo2k48&show_icons=true&locale=en&layout=compact&theme=dark" alt="rodrigo2k48" /> </p>
 
 <h3 align="left">Conecte-se comigo! 🕵🏾‍♂️🖖🏾:</h3>
 <p align="left">
@@ -27,6 +31,4 @@
  
   <img align="right" alt="Gif Rodrigoa-pic" height="170" style="border-radius:px;" src="https://media.discordapp.net/attachments/973043838602080269/973044055393054760/Webp.net-gifmaker.gif?width=492&height=492">
   
-
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
