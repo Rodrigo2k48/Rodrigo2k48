@@ -4,7 +4,7 @@
 
 <h4 align="center"> Sou um Aprendiz Jedi na Trybe</h4>
  
- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigo2k48&show_icons=true&include_all_commits=true&theme=tokyonight_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo2k48&layout=compact&theme=tokyonight_border=true" /></a> 
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigo2k48&show_icons=true&include_all_commits=true&theme=tokyonight&border=true" alt="Anurag's github stats" /></a> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo2k48&layout=compact&theme=tokyonight&border=true" /></a> 
 | ------------- | ------------- |
 
 <h3 align="left">Conecte-se comigo! 🕵🏾‍♂️🖖🏾:</h3>
@@ -30,4 +30,4 @@
  
   <img align="right" alt="Gif Rodrigoa-pic" height="170" style="border-radius:px;" src="https://media.discordapp.net/attachments/973043838602080269/973044055393054760/Webp.net-gifmaker.gif?width=492&height=492">
   
-</svg>
+
