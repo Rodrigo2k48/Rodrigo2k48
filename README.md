@@ -1,11 +1,12 @@
 <div align="center">
   <img src=https://user-images.githubusercontent.com/104791525/167846768-e0dbb56a-e8f9-4760-9d0e-9c0e7e07f8b4.jpg width ="840px" border-bottom = 200px align = "center" />
   </div>
-
+  
+#####
 
 <div align="center" style="display: inline_block"
   <a href="https://github.com/rodrigo2k48">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigo2k48&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" border-left = 100% src="https://github-readme-stats.vercel.app/api?username=rodrigo2k48&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo2k48&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
@@ -35,6 +36,6 @@
   <a href = "mailto:Rodrigoga701@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alvestb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Rodrigo2k48/Rodrigo2k48/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Rodrigo2k48/Rodrigo2k48/blob/output/github-contribution-grid-snake.svg)
  
 </div>
