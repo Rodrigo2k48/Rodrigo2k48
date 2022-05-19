@@ -6,8 +6,8 @@
 
 <div align="center" style="display: inline_block"
   <a href="https://github.com/rodrigo2k48">
-  <img height="150px" border-left = 100% src="https://github-readme-stats.vercel.app/api?username=rodrigo2k48&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo2k48&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150px" border-left = 100px src="https://github-readme-stats.vercel.app/api?username=rodrigo2k48&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo2k48&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
  #
