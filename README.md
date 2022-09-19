@@ -2,12 +2,7 @@
   <img src=https://user-images.githubusercontent.com/104791525/167846768-e0dbb56a-e8f9-4760-9d0e-9c0e7e07f8b4.jpg width ="840px" border-bottom = 200px align = "center" />
   </div>
   
-#####
-
-<div align="center" style="display: inline_block"
-  <a href="https://github.com/rodrigo2k48">
-  <img height="200px" border-left = 100px src="https://github-readme-stats.vercel.app/api?username=rodrigo2k48&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+####
  
  #
  
