@@ -4,11 +4,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=44F799&background=FF000000&width=435&lines=I+from+Brazil%2Cborn+in+Rio+de+Janeiro;20+year%2C+Full+Stack+Developer+%F0%9F%92%9A;Enlightened%2Chardworking%2Cand+grateful)](https://git.io/typing-svg)
  
 <div align="left">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/rodrigo2k48">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigo2k48&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="90em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo2k48&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo2k48&layout=compact)](https://github.com/rodrigo2k48/github-readme-stats)
 
 
  <div style="display: inline_block"><br>
