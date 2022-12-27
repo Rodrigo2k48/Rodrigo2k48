@@ -1,11 +1,16 @@
-<div align="center">
-  <img src=https://user-images.githubusercontent.com/104791525/167846768-e0dbb56a-e8f9-4760-9d0e-9c0e7e07f8b4.jpg width ="840px" border-bottom = 200px align = "center" />
-  </div>
-  
-####
+<h1>Hi Pleasure<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,My name is <a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alvestb/"><i>Rodrigo Gonçalves</i></a></h1>  
+<p>nice to see you here ⭐️</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=44F799&background=FF000000&width=435&lines=I+from+Brazil%2Cborn+in+Rio+de+Janeiro;20+year%2C+Full+Stack+Developer+%F0%9F%92%9A;Enlightened%2Chardworking%2Cand+grateful)](https://git.io/typing-svg)
  
- #
- 
+<div align="left">
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigo2k48&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="90em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo2k48&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+
  <div style="display: inline_block"><br>
  
 <h3 align="left">Minhas Hard Skils ⭐️⭐️⭐️:</h3>
