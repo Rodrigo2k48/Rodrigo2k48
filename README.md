@@ -31,7 +31,7 @@
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
    <img height="50em" src="https://user-images.githubusercontent.com/104791525/209708068-cf84980a-00c3-4a96-bcd4-83bc8aadc4c6.png"/>
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg"/>
-   <img height="50em" src="https://o.remove.bg/downloads/6731e932-a343-43f6-b780-2b642e4ccb45/e63-removebg-preview.png"/>
+   <img height="50em" src="https://media.discordapp.net/attachments/1057715943943438508/1057716038755688478/e63.png"/>
 
 </div>
  <hr>
