@@ -5,7 +5,9 @@
  
 <div align="center">
   <a href="https://github.com/rodrigo2k48">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodrigo2k48&count_private=true&include_all_commits=true&show_icons=true&theme=react&hide_border=false&show_owner=true"/> 
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo2k48&show_icons=true&theme=radical)
+
    <h2>Languages and Tools:</h2>
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
