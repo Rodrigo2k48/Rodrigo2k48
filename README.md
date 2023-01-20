@@ -5,8 +5,6 @@
  
 <div align="center">
   <a href="https://github.com/rodrigo2k48">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo2k48&show_icons=true&theme=radical)
 
    <h2>Languages and Tools:</h2>
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
