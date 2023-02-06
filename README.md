@@ -10,7 +10,7 @@
  
 ```javascript
 class Rodrigo implements Contatos {
-constructor(private _amo: string,private _segredo:string,atualmente:string,protected mensagem:string){
+constructor(private _amo:string,private _segredo:string,atualmente:string,protected mensagem:string){
 this._amo❤️‍🔥= "Conversar, trocar ideia, e falar de nerdices,Animes,Games,Futebol"
 
 this._segredo 🔐= "cuidado com essa informação!!!
@@ -25,7 +25,6 @@ para qualquer ambiente leve e gostoso de se trabalhar"
 contatos() {
 return ["Email: Rodrigoga701@gmail.com","Perfil do linkedin","Whatsapp...só me pedir o numero"]
 }
-
 }
 ```
 <div align="left">
