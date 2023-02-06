@@ -61,8 +61,14 @@ src="https://camo.githubusercontent.com/d3c77a43f082ebae2867e0a64cb080059ceb5a3f
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>   
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg"/>  <img height="40em" style="margin-right:30px" src="https://media.discordapp.net/attachments/1057715943943438508/1057716038755688478/e63.png"/>
+   <img height="50em" src="https://cdn.worldvectorlogo.com/logos/zoom-5.svg"/>
+   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/> 
+   <img height="50em" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg"/>
+   <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/493px-Adobe_Photoshop_Lightroom_CC_logo.svg.png"/> 
+   <img height="50em" src="https://media.discordapp.net/attachments/1057715943943438508/1072226042506387527/sony-vegas-logo-icon.png"/> 
+  
+   
+   <img height="40em" style="margin-right:30px" src="https://media.discordapp.net/attachments/1057715943943438508/1057716038755688478/e63.png"/>
 </div>
  <hr>
 <div> 
