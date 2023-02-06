@@ -9,24 +9,25 @@
   <a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alvestb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
  
 ```javascript
-class Rodrigo = {
-prvate _amo ❤️‍🔥= "Conversar, trocar ideia, e falar de nerdices,Animes,Games,Futebol"
+class Rodrigo implements Contatos {
+constructor(private _amo: string,private _segredo:string,atualmente:string,protected mensagem:string){
+this._amo❤️‍🔥= "Conversar, trocar ideia, e falar de nerdices,Animes,Games,Futebol"
 
-private _segredo 🔐= "cuidado com essa informação!!!
+this._segredo 🔐= "cuidado com essa informação!!!
 mas você pode me chamar para bater um papo sobre qualquer
 assunto de tecnologia, estou sempre disposto a colaborar e aprender"
  
-public atualmente 🌱= "Estudando MongoDB,Python e melhores praticas do POO & Solid"
+this.atualmente 🌱= "Estudando MongoDB,Python e melhores praticas do POO & Solid"
 
-protected mensagem 💽= "Colaboração e comunicação é fundamental 
+this.mensagem 💽= "Colaboração e comunicação é fundamental 
 para qualquer ambiente leve e gostoso de se trabalhar"
 }
+contatos() {
+return ["Email: Rodrigoga701@gmail.com","Perfil do linkedin","Whatsapp...só me pedir o numero"]
+}
+
+}
 ```
- 
-
- 
-
- 
 <div align="left">
   <a href="https://github.com/rodrigo2k48">
     
