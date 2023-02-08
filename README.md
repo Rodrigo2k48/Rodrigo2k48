@@ -41,16 +41,16 @@ return ["Email: Rodrigoga701@gmail.com","Perfil do linkedin","Whatsapp...só me 
    <img height="50em" src="https://testing-library.com/img/octopus-64x64.png"/>
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"/> 
-   <img height="50em" src="https://user-images.githubusercontent.com/104791525/209708068-cf84980a-00c3-4a96-bcd4-83bc8aadc4c6.png"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"/>  <img height="40em" style="margin-right:30px" src="https://media.discordapp.net/attachments/1057715943943438508/1057716038755688478/e63.png"/>
+   <img height="50em" src="https://user-images.githubusercontent.com/104791525/209708068-cf84980a-00c3-4a96-bcd4-83bc8aadc4c6.png"/> <img height="40em" style="margin-right:30px" src="https://media.discordapp.net/attachments/1057715943943438508/1057716038755688478/e63.png"/>
    
    <h3>Back-end</h3>
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+   <img height="50em" src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png"/>
    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
+    <img height="50em" src="https://user-images.githubusercontent.com/104791525/217549211-4729c104-3de0-44ad-8d16-99a84a81cd75.png"/> 
    <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg"/>
     <img height="50em"
 src="https://camo.githubusercontent.com/d3c77a43f082ebae2867e0a64cb080059ceb5a3fc2f47282b507e75db22f8887/68747470733a2f2f6f70656e636f6c6c6563746976652d70726f64756374696f6e2e73332d75732d776573742d312e616d617a6f6e6177732e636f6d2f37366463363738302d396262322d313165382d393237632d3731663239373539616261622e706e67"/>
