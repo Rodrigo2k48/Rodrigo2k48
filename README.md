@@ -1,4 +1,4 @@
-<h1>Hi Pleasure<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,My name is <a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alvestb/"><i>Rodrigo Gonçalves</i></a></h1>  
+<h1>Hi Pleasure<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> My name is <a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alvestb/"><i>Rodrigo Gonçalves</i></a></h1>  
  <img align="right" alt="Gif Rodrigoa-pic"height="140em" src="https://media.discordapp.net/attachments/973043838602080269/973044055393054760/Webp.net-gifmaker.gif?width=492&height=492">
 <p>nice to see you here ⭐️</p>
 
