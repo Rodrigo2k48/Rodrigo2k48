@@ -32,41 +32,42 @@ return ["Email: Rodrigoga701@gmail.com","Perfil do linkedin","Whatsapp...só me 
   <a href="https://github.com/rodrigo2k48">
     
    <h3>Front-end</h3>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-   <img height="50em" src="https://testing-library.com/img/octopus-64x64.png"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"/> 
-   <img height="50em" src="https://user-images.githubusercontent.com/104791525/209708068-cf84980a-00c3-4a96-bcd4-83bc8aadc4c6.png"/> <img height="40em" style="margin-right:30px" src="https://media.discordapp.net/attachments/1057715943943438508/1057716038755688478/e63.png"/>
+   <img height="30em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+   <img height="30em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+   <img height="30em" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/testing%20library-2A1D20?style=for-the-badge&logo=testing-library&logoColor=red"/>
+   <img height="30em" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white"/> <img height="40em" style="margin-right:30px" src="https://media.discordapp.net/attachments/1057715943943438508/1057716038755688478/e63.png"/>
    
    <h3>Back-end</h3>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
-   <img height="50em" src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
-    <img height="50em" src="https://user-images.githubusercontent.com/104791525/217549211-4729c104-3de0-44ad-8d16-99a84a81cd75.png"/> 
-   <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg"/>
-    <img height="50em"
-src="https://camo.githubusercontent.com/d3c77a43f082ebae2867e0a64cb080059ceb5a3fc2f47282b507e75db22f8887/68747470733a2f2f6f70656e636f6c6c6563746976652d70726f64756374696f6e2e73332d75732d776573742d312e616d617a6f6e6177732e636f6d2f37366463363738302d396262322d313165382d393237632d3731663239373539616261622e706e67"/>
-   <img height="50em" src="https://user-images.githubusercontent.com/104791525/216889433-c401f298-c610-44fc-94d6-b7a5a11a05e0.png"/>
-   <img height="50em" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_128x128.png?raw=true"/> 
-    <img height="40em" style="margin-right:30px" src="https://media.discordapp.net/attachments/1057715943943438508/1057716038755688478/e63.png"/>
+   <img height="30em" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/MySQL-002133?style=for-the-badge&logo=mysql&logoColor=whit"/>
+   <img height="30em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+   <img height="30em" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/> 
+   <img height="30em" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"/>
+   <img height="30em" src="https://img.shields.io/badge/mocha.js-472D08?style=for-the-badge&logo=mocha&logoColor=Brown"/>
+   <img height="30em" src="https://img.shields.io/badge/chai.js-F7D4C7?style=for-the-badge&logo=chai&logoColor=black"/>
+   <img height="30em" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"/>
+   <img height="30em" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+   <img height="30em" src="https://img.shields.io/badge/mongoose-2D3D27?style=for-the-badge&logo=mongodb&logoColor=red"/> <img height="40em" style="margin-right:30px" src="https://media.discordapp.net/attachments/1057715943943438508/1057716038755688478/e63.png"/>
    <h3>Tools</h3>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"/>
-   <img height="50em" src="https://cdn.worldvectorlogo.com/logos/zoom-5.svg"/>
-   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/> 
-   <img height="50em" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg"/>
-   <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/493px-Adobe_Photoshop_Lightroom_CC_logo.svg.png"/> 
-   <img height="50em" src="https://media.discordapp.net/attachments/1057715943943438508/1072226042506387527/sony-vegas-logo-icon.png"/> 
+   <img height="30em" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/> 
+   <img height="30em" src="https://img.shields.io/badge/Adobe%20Photoshop-2553E8?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+   <img height="30em" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=black"/> 
+   <img height="30em" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
   
    
    <img height="40em" style="margin-right:30px" src="https://media.discordapp.net/attachments/1057715943943438508/1057716038755688478/e63.png"/>
