@@ -41,7 +41,9 @@ return ["Email: Rodrigoga701@gmail.com","Perfil do linkedin","Whatsapp...só me 
    <img height="30em" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
    <img height="30em" src="https://img.shields.io/badge/testing%20library-2A1D20?style=for-the-badge&logo=testing-library&logoColor=red"/>
    <img height="30em" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-   <img height="30em" src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white"/> <img height="40em" style="margin-right:30px" src="https://media.discordapp.net/attachments/1057715943943438508/1057716038755688478/e63.png"/>
+   <img height="30em" src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white"/>
+   <img height="30em" src="https://img.shields.io/badge/-Axios-1b374b?style=for-the-badge&logo=Axios&logoColor=white"/>
+   <img height="40em" style="margin-right:30px" src="https://media.discordapp.net/attachments/1057715943943438508/1057716038755688478/e63.png"/>
    
    <h3>Back-end</h3>
    <img height="30em" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
