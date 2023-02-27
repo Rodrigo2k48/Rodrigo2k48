@@ -4,10 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+from+Brazil+born+in+Rio+de+Janeiro;Full+stack+developer+by+Trybe+%F0%9F%92%9A;Enlightened+hardworking+and+grateful)](https://git.io/typing-svg) 
 
-  <a href="https://instagram.com/rodrigo2kk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-  <a href="https://t.me/rodrigo_retroboy" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black" target="_blank"></a>
-  <a href = "mailto:Rodrigoga701@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alvestb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
+  <a href="https://t.me/rodrigo_retroboy" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alvestb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:Rodrigoga701@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  
 ```javascript
 class Rodrigo implements Contatos {
