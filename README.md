@@ -68,7 +68,8 @@ return ["Email: Rodrigoga701@gmail.com","Perfil do linkedin","Whatsapp...só me 
    <img height="30em" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
    <img height="30em" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/> 
    <img height="30em" src="https://img.shields.io/badge/Adobe%20Photoshop-2553E8?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-   <img height="30em" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=black"/> <img height="30em" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
+   <img height="30em" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=black"/>
+   <img height="30em" src="https://img.shields.io/badge/Sony Vegas-265C73?style=for-the-badge&logo=V&logoColor=blue"/> <img height="30em" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
   
    
    <img height="40em" style="margin-right:30px" src="https://media.discordapp.net/attachments/1057715943943438508/1057716038755688478/e63.png"/>
