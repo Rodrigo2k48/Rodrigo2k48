@@ -17,7 +17,7 @@ this._segredo 🔐= "cuidado com essa informação!!!
 mas você pode me chamar para bater um papo sobre qualquer
 assunto de tecnologia, estou sempre disposto a colaborar e aprender"
  
-this.atualmente 🌱= "Estudando MongoDB,Python e melhores praticas do POO & Solid"
+this.atualmente 🌱= "Estudando MongoDB,Python e as melhores praticas do POO & Solid"
 
 this.mensagem 💽= "Colaboração e comunicação é fundamental 
 para qualquer ambiente leve e gostoso de se trabalhar"
