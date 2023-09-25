@@ -1,6 +1,4 @@
-<h1>Hi Pleasure<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> My name is <a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alvestb/"><i>Rodrigo Gonçalves</i></a></h1>  
- <img align="right" alt="Gif Rodrigoa-pic"height="140em" src="https://media.discordapp.net/attachments/973043838602080269/973044055393054760/Webp.net-gifmaker.gif?width=492&height=492">
-<p>nice to see you here ⭐️</p>
+<h1>nice to see you here ⭐️</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+from+Brazil+born+in+Rio+de+Janeiro;Full+stack+developer+by+Trybe+%F0%9F%92%9A;Enlightened+hardworking+and+grateful)](https://git.io/typing-svg) 
 
